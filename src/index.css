@@ -1,0 +1,10 @@
+.header-container div {
+
+    display: flex;
+    justify-content: space-evenly;
+    background-color: pink;
+}
+
+.main-page div {
+    background-color: aqua;
+}
